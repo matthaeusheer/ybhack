@@ -6,3 +6,5 @@ install:
   - pipenv install --dev
 script:
   - python -m unittest discover
+notifications:
+  email: false
