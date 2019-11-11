@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/matthaeusheer/ybhack.svg?branch=master)](https://travis-ci.org/matthaeusheer/ybhack)
+
 # ybhack
 Code repository for the 2019 YB Hackathon.
 
