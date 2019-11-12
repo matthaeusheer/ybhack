@@ -52,4 +52,4 @@ pipenv install
 pipenv shell
 python -m ipykernel install --user --name ybhack --display-name "ybhack_env"
 
-printf "[${green}[YBHACK INSTALLTION] Congratulations. Everything is setup and ready to go.!${end}]\n"
+printf "[${green}[YBHACK INSTALLTION] ===== SETUP SCRIPT END =====${end}]\n"
