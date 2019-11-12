@@ -50,5 +50,6 @@ pyenv install 3.7.5
 printf "[${red}Installing pipenv dependencies and initializing pipenv sub shell...${end}]\n"
 pipenv install
 pipenv shell
+python -m ipykernel install --user --name ybhack --display-name "ybhack_env"
 
 printf "[${green}[YBHACK INSTALLTION] Congratulations. Everything is setup and ready to go.!${end}]\n"
